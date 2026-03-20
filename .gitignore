@@ -1,3 +1,6 @@
+# 제외 파일
+sceret.md
+
 # MCP 설정 파일
 .mcp.json
 
